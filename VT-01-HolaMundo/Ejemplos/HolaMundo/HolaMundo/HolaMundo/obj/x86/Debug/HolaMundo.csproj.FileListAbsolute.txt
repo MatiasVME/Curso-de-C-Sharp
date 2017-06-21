@@ -1,0 +1,5 @@
+/home/matias/git/Curso-de-C-Sharp/VT-01-HolaMundo/Ejemplos/HolaMundo/HolaMundo/HolaMundo/bin/Debug/HolaMundo.exe
+/home/matias/git/Curso-de-C-Sharp/VT-01-HolaMundo/Ejemplos/HolaMundo/HolaMundo/HolaMundo/bin/Debug/HolaMundo.pdb
+/home/matias/git/Curso-de-C-Sharp/VT-01-HolaMundo/Ejemplos/HolaMundo/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.csproj.CoreCompileInputs.cache
+/home/matias/git/Curso-de-C-Sharp/VT-01-HolaMundo/Ejemplos/HolaMundo/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.exe
+/home/matias/git/Curso-de-C-Sharp/VT-01-HolaMundo/Ejemplos/HolaMundo/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.pdb
