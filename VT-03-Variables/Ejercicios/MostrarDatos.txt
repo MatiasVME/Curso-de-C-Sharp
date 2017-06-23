@@ -1,0 +1,9 @@
+Crea un programa que almacene los siguientes datos:
+- Edad (usa byte)
+- Numero de telefono (usa int)
+- estaVivo (usa bool)
+
+Tiene que mostrar lo siguiente en la consola:
+Mi edad es 15
+Mi numero es 088837292
+Y estoy vivo: true

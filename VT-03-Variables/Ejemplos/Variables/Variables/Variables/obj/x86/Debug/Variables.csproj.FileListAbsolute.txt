@@ -1,0 +1,5 @@
+/home/matias/git/Curso-de-C-Sharp/VT-03-Variables/Ejemplos/Variables/Variables/Variables/bin/Debug/Variables.exe
+/home/matias/git/Curso-de-C-Sharp/VT-03-Variables/Ejemplos/Variables/Variables/Variables/bin/Debug/Variables.pdb
+/home/matias/git/Curso-de-C-Sharp/VT-03-Variables/Ejemplos/Variables/Variables/Variables/obj/x86/Debug/Variables.csproj.CoreCompileInputs.cache
+/home/matias/git/Curso-de-C-Sharp/VT-03-Variables/Ejemplos/Variables/Variables/Variables/obj/x86/Debug/Variables.exe
+/home/matias/git/Curso-de-C-Sharp/VT-03-Variables/Ejemplos/Variables/Variables/Variables/obj/x86/Debug/Variables.pdb
