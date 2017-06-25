@@ -1,0 +1,5 @@
+/home/matias/git/Curso-de-C-Sharp/VT-04-OperadoresAritmeticosYConstantes/Ejemplos/Ejemplo1/Ejemplo1/obj/x86/Debug/Ejemplo1.csproj.CoreCompileInputs.cache
+/home/matias/git/Curso-de-C-Sharp/VT-04-OperadoresAritmeticosYConstantes/Ejemplos/Ejemplo1/Ejemplo1/bin/Debug/Ejemplo1.exe
+/home/matias/git/Curso-de-C-Sharp/VT-04-OperadoresAritmeticosYConstantes/Ejemplos/Ejemplo1/Ejemplo1/bin/Debug/Ejemplo1.pdb
+/home/matias/git/Curso-de-C-Sharp/VT-04-OperadoresAritmeticosYConstantes/Ejemplos/Ejemplo1/Ejemplo1/obj/x86/Debug/Ejemplo1.exe
+/home/matias/git/Curso-de-C-Sharp/VT-04-OperadoresAritmeticosYConstantes/Ejemplos/Ejemplo1/Ejemplo1/obj/x86/Debug/Ejemplo1.pdb

@@ -1,0 +1,5 @@
+Escribir un programa que saque la media de 3 variables y
+lo imprima en pantalla.
+
+Para sacar la media tienes que sumar esas variables y luego
+dividirlo por 3.
