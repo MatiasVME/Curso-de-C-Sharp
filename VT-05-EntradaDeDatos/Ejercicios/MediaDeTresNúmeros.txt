@@ -1,0 +1,5 @@
+Escribir un programa que lea 3 números por la
+terminal o consola y luego diga cual es el
+promedio de los 3.
+
+Es como el ejercicio anterior ;-)

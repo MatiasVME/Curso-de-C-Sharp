@@ -1,0 +1,1 @@
+Hacer un programa que lea 2 números por la terminal y calcule la diferencia (resta) entre estos. 
