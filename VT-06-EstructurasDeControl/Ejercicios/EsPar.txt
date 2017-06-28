@@ -1,0 +1,5 @@
+Escribir un programa que el cual lea un número por medio 
+de la terminal y el programa te dice si el número es par o no.
+
+Pista: Puedes utilizar el operador mod (%) para saber si un
+número es par o impar.

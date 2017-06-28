@@ -1,0 +1,2 @@
+Escribir un programa que lea un número por el 
+teclado y te diga si ese número es mayor o menor a 30. 

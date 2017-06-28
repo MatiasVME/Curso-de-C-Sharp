@@ -1,0 +1,2 @@
+Escribir un programa que lea tres números desde la terminal
+y luego los muestre de menor a mayor.
