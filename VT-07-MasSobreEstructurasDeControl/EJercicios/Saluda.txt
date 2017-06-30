@@ -1,0 +1,6 @@
+Escribir un programa el cual te diga buenos días o
+buenas tardes dependiendo de la hora ingresada por
+el usuario. Pero si el usuario ingresa una hora mayor
+a 24 entonces el programa dice "No es una hora valida". 
+O si ingresa una hora menor que 1, dice lo
+mismo.

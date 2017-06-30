@@ -1,6 +1,6 @@
 Escribir un programa que lea 3 números por la terminal:
 
-1) Dia (Para simplificar supondremos que todos los meses tienen 30 días)
+1) Dia (Supondremos que todos los meses tienen 30 días)
 2) Mes
 3) Año
 
