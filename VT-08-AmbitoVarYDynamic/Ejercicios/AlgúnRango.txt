@@ -1,0 +1,5 @@
+Escribir un programa que lea un número y
+comprobar si el número esta dentro de los
+rangos 2 a 5 o 10 a 15 . En el caso de que
+este dentro de esos rangos mostrar el
+incremento del numero leído.
