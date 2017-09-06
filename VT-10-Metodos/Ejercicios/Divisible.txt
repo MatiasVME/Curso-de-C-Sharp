@@ -1,0 +1,7 @@
+Escribir un programa que lea un número desde
+la terminal. El programa debe indicar si el
+número es divisible entre 2, 3 y 5. En cada
+caso o no, deberá de enviar un mensaje indicando
+este hecho.
+
+Debe usar un método y llamarlo desde el Main.

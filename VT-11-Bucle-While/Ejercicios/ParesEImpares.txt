@@ -1,0 +1,3 @@
+Escribir un programa que lea un número por el teclado
+y luego diga cuales son los número pares e impares,
+desde el 1 hasta el numero ingresado por el teclado.

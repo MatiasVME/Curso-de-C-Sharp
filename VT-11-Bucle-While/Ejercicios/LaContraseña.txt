@@ -1,0 +1,12 @@
+Escribir un programa en el cual se almacene una
+contraseña en una variable, y luego el usuario
+debe decir la contraseña.
+
+Si la contraseña es correcta se imprime el
+mensaje "Se a ingresado al sistema".
+
+Si la contraseña es incorrecta se le pregunta
+al usuario si quiere seguir intentado colocar
+la contraseña. En el caso de que quiera seguir
+que vuelva a colocar la contraseña, en el caso
+de que no quiera seguir que se salga del programa.

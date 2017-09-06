@@ -1,0 +1,11 @@
+Diseña  un  programa  que  lee  un  número
+entero  como  día  de  la  semana  y  que  
+se encuentre  dentro  del  rango  del  1 
+al  7  inclusive,  y  lo  exprese  a  su 
+equivalente  en nombre 
+(1 = Lunes, 2 = Martes ...). 
+El programa solo trabajará si el número 
+leído esta dentro del rango permitido.
+
+Por ejemplo si se escribe en la terminal 1
+dice "es lunes".
